@@ -1,0 +1,12 @@
+/Users/celsodelfino/Projects/Fenix/Fenix.DOMAIN/bin/Debug/net6.0/Fenix.DOMAIN.deps.json
+/Users/celsodelfino/Projects/Fenix/Fenix.DOMAIN/bin/Debug/net6.0/Fenix.DOMAIN.dll
+/Users/celsodelfino/Projects/Fenix/Fenix.DOMAIN/bin/Debug/net6.0/Fenix.DOMAIN.pdb
+/Users/celsodelfino/Projects/Fenix/Fenix.DOMAIN/obj/Debug/net6.0/Fenix.DOMAIN.csproj.AssemblyReference.cache
+/Users/celsodelfino/Projects/Fenix/Fenix.DOMAIN/obj/Debug/net6.0/Fenix.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celsodelfino/Projects/Fenix/Fenix.DOMAIN/obj/Debug/net6.0/Fenix.DOMAIN.AssemblyInfoInputs.cache
+/Users/celsodelfino/Projects/Fenix/Fenix.DOMAIN/obj/Debug/net6.0/Fenix.DOMAIN.AssemblyInfo.cs
+/Users/celsodelfino/Projects/Fenix/Fenix.DOMAIN/obj/Debug/net6.0/Fenix.DOMAIN.csproj.CoreCompileInputs.cache
+/Users/celsodelfino/Projects/Fenix/Fenix.DOMAIN/obj/Debug/net6.0/Fenix.DOMAIN.dll
+/Users/celsodelfino/Projects/Fenix/Fenix.DOMAIN/obj/Debug/net6.0/refint/Fenix.DOMAIN.dll
+/Users/celsodelfino/Projects/Fenix/Fenix.DOMAIN/obj/Debug/net6.0/Fenix.DOMAIN.pdb
+/Users/celsodelfino/Projects/Fenix/Fenix.DOMAIN/obj/Debug/net6.0/ref/Fenix.DOMAIN.dll

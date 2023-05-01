@@ -1,0 +1,12 @@
+/Users/celsodelfino/Projects/Fenix/Fenix.INFRA/bin/Debug/net6.0/Fenix.INFRA.deps.json
+/Users/celsodelfino/Projects/Fenix/Fenix.INFRA/bin/Debug/net6.0/Fenix.INFRA.dll
+/Users/celsodelfino/Projects/Fenix/Fenix.INFRA/bin/Debug/net6.0/Fenix.INFRA.pdb
+/Users/celsodelfino/Projects/Fenix/Fenix.INFRA/obj/Debug/net6.0/Fenix.INFRA.csproj.AssemblyReference.cache
+/Users/celsodelfino/Projects/Fenix/Fenix.INFRA/obj/Debug/net6.0/Fenix.INFRA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/celsodelfino/Projects/Fenix/Fenix.INFRA/obj/Debug/net6.0/Fenix.INFRA.AssemblyInfoInputs.cache
+/Users/celsodelfino/Projects/Fenix/Fenix.INFRA/obj/Debug/net6.0/Fenix.INFRA.AssemblyInfo.cs
+/Users/celsodelfino/Projects/Fenix/Fenix.INFRA/obj/Debug/net6.0/Fenix.INFRA.csproj.CoreCompileInputs.cache
+/Users/celsodelfino/Projects/Fenix/Fenix.INFRA/obj/Debug/net6.0/Fenix.INFRA.dll
+/Users/celsodelfino/Projects/Fenix/Fenix.INFRA/obj/Debug/net6.0/refint/Fenix.INFRA.dll
+/Users/celsodelfino/Projects/Fenix/Fenix.INFRA/obj/Debug/net6.0/Fenix.INFRA.pdb
+/Users/celsodelfino/Projects/Fenix/Fenix.INFRA/obj/Debug/net6.0/ref/Fenix.INFRA.dll

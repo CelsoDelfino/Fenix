@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "l3fwgoj6oZRhb+z6YWomQptTmmJRtLosu76q8bVsBLTIGSIP0yu5aGjXEHi4m2TaBbghNUobo90Yg297t54Ayw==",
+  "success": true,
+  "projectFilePath": "/Users/celsodelfino/Projects/Fenix/Fenix.DOMAIN/Fenix.DOMAIN.csproj",
+  "expectedPackageFiles": [
+    "/Users/celsodelfino/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.13/microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "/Users/celsodelfino/.nuget/packages/microsoft.netcore.app.ref/6.0.13/microsoft.netcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{536BAD54-9E11-4D94-B629-2718CF3FA60F}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.INFRA.Fenix.INFRA FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fenix.DOMAIN/Class1.cs">
+    <Files>
+      <File FileName="Fenix.DOMAIN/Class1.cs" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fenix" expanded="True">
+            <Node name="Fenix.API" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Fenix.DOMAIN" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.API.Fenix.API PreferredExecutionTarget="/Applications/Safari.app" />
+</Properties>
